@@ -1,0 +1,26 @@
+{
+  "name": "2-edge",
+  "version": "1.0.0",
+  "description": "[![deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/adamjralph/netlify-edge-demo)",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjralph/netlify-edge-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamjralph/netlify-edge-demo/issues"
+  },
+  "homepage": "https://github.com/adamjralph/netlify-edge-demo#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
