@@ -8,4 +8,5 @@ https://main--harmonious-syrniki-a03aa2.netlify.app
 ## Dependencies
 
 parcel - npm install --save-dev parcel | npx parcel src/index
+
 serve (global) | serve dist
